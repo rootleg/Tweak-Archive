@@ -1,0 +1,9 @@
+Package: 0xcc.woodfairy.koi
+Name: Koi 🐠
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1)
+Version: 1.1.7
+Architecture: iphoneos-arm
+Description: Tint the 3D Touch background based on the App Icon's color
+Maintainer: woodfairy & Litten
+Author: woodfairy & Litten
+Section: Tweaks
